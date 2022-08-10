@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zombiebattler
-- 👀 I’m interested in gaming computers and technick
-- 🌱 I’m currently learning school thinks
+# Zombiebattler 
 
-<!---
-Zombiebattler/Zombiebattler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### Telegrambot Template >>> [Click Me](https://github.com/Zombiebattler/Telegrambot-Template)
+#### Email >>> zombiebattler303@gmail.com
+#### Webseite (If Online 😬) >>> [Click Me](https://leonkcom.leonkoelmel.repl.co)
+#### My Discord >>> [Click Me]()
+#### Free Hacks (valorant, Fortnite, and more...) >>> [Click Me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
