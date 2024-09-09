@@ -2,7 +2,7 @@
 
 ### 🌐 Links
 - [![Webseite](https://img.shields.io/badge/-Website-000?style=flat-square&logo=globe&logoColor=white)](http://links.leonk.me)
-- [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](http://links.leonk.me) 
+- [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/571008604669476864/) 
 
 ### 🦍 Friends
 
