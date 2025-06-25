@@ -1,4 +1,4 @@
-# Hallö 👋
+# Hallo 👋
 
 ### 🌐 Links
 - [![Webseite](https://img.shields.io/badge/-Website-000?style=flat-square&logo=globe&logoColor=white)](https://lekl7.de)
